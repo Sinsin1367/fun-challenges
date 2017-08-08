@@ -125,3 +125,4 @@ for _ in range(T):
 
 for item in lst:
     print(item)
+#this was fun
