@@ -5,7 +5,7 @@ from collections import defaultdict
 
 import sys
 sys.setrecursionlimit(1000000)
-#print(sys.getrecursionlimit())
+print(sys.getrecursionlimit())
 
 d = dict()  #######map to store the sub problem asnwers (dynamic programming)
 
